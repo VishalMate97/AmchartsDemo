@@ -1,0 +1,13 @@
+#btn1{
+	color:white;background:red;
+}
+
+
+#btn2{
+	color:black;background:red;
+}
+
+.container{
+	border: 2px solid red;
+	box-sizing: border-box;
+}
